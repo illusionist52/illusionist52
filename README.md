@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node js.**
 
-- 💬 Ask me about **react, django and springboot**
+- 💬 Ask me about **react, djanga and flask**
 
 - 📫 How to reach me **usmanmogal2@gmail.com**
 
