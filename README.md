@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illusionist52&label=Profile%20views&color=0e75b6&style=flat" alt="illusionist52" /> </p>
 
-- 🌱 I’m currently learning **Node js.**
+- 🌱 I’m currently learning **GraqhQL.**
 
-- 💬 Ask me about **react, django and flask**
+- 💬 Ask me about **react, Node js., django and flask**
 
 - 📫 How to reach me **usmanmogal2@gmail.com**
 
